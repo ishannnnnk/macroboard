@@ -1,8 +1,11 @@
 4 key macropad
 
+schematic:
 <img width="729" height="685" alt="image" src="https://github.com/user-attachments/assets/ce8d9222-2807-43f1-8660-337a8a98a662" />
 
-<img width="729" height="685" alt="image" src="https://github.com/user-attachments/assets/8dba9b76-deba-47a1-b2b0-e5240d7904a0" />
+pcb:
+<img width="518" height="634" alt="image" src="https://github.com/user-attachments/assets/77690460-baa4-424f-9c2a-b5afe15fa641" />
+
 
 
 What is this
