@@ -6,6 +6,14 @@ schematic:
 pcb:
 <img width="518" height="634" alt="image" src="https://github.com/user-attachments/assets/77690460-baa4-424f-9c2a-b5afe15fa641" />
 
+CAD:
+<img width="454" height="509" alt="image" src="https://github.com/user-attachments/assets/1031e7fb-20d9-4a1b-90f8-fbb1c30c9c2a" />
+<img width="717" height="427" alt="image" src="https://github.com/user-attachments/assets/42e02e7e-47ca-44b0-9f18-c5046b6880dc" />
+<img width="776" height="770" alt="image" src="https://github.com/user-attachments/assets/f0621f2a-0bf1-4e12-827e-32d0e14c0e69" />
+
+
+
+
 
 
 What is this
@@ -17,17 +25,8 @@ Hardware
 MCU: Seeed XIAO RP2040
 Switches: 4x Cherry MX compatible switches
 LEDs: 2x SK6812 RGB LEDs
-the PCB is designed in KiCad and shaped like a cricket ball (well, as close as you can get with a PCB).
+the PCB is designed in KiCad
 
-Default keymap
-SW1 (top left): Play/Pause
-SW2 (top right): Next Track
-SW3 (bottom left): Toggle LEDs
-SW4 (bottom right): Cycle RGB animations
-Programming
-It's running KMK so you just edit kmk/main.py and save it to the CIRCUITPY drive. No compiling, no flashing tools, just plug it in and go.
-
-The code's pretty straightforward if you want to change the keys or add macros. Check out the KMK docs for more info.
 
 BOM
-4x Cherry MX Switches 2x SK6812 MINI LEDs 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~100g PLA
+4x Cherry MX Switches 2x SK6812 MINI LEDs 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~50-100g PLA
