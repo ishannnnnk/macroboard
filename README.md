@@ -9,9 +9,9 @@ pcb:
 
 
 CAD:
-<img width="454" height="509" alt="image" src="https://github.com/user-attachments/assets/1031e7fb-20d9-4a1b-90f8-fbb1c30c9c2a" />
-<img width="717" height="427" alt="image" src="https://github.com/user-attachments/assets/42e02e7e-47ca-44b0-9f18-c5046b6880dc" />
-<img width="776" height="770" alt="image" src="https://github.com/user-attachments/assets/f0621f2a-0bf1-4e12-827e-32d0e14c0e69" />
+<img width="556" height="659" alt="image" src="https://github.com/user-attachments/assets/f7926998-14c2-4f2f-bc46-bd8be4e2eb8c" />
+<img width="559" height="610" alt="image" src="https://github.com/user-attachments/assets/3dc72efd-f765-4a95-89c5-aac197b98986" />
+
 
 
 
