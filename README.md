@@ -1,10 +1,12 @@
-4 key macropad
+6 key macropad
 
 schematic:
-<img width="729" height="685" alt="image" src="https://github.com/user-attachments/assets/ce8d9222-2807-43f1-8660-337a8a98a662" />
+<img width="476" height="552" alt="image" src="https://github.com/user-attachments/assets/8e106ae4-1e02-417b-9b03-b7f2485b4358" />
+
 
 pcb:
-<img width="518" height="634" alt="image" src="https://github.com/user-attachments/assets/77690460-baa4-424f-9c2a-b5afe15fa641" />
+<img width="254" height="413" alt="image" src="https://github.com/user-attachments/assets/8b4b78be-f573-4cd3-9f96-107f1abce346" />
+
 
 CAD:
 <img width="454" height="509" alt="image" src="https://github.com/user-attachments/assets/1031e7fb-20d9-4a1b-90f8-fbb1c30c9c2a" />
@@ -17,16 +19,16 @@ CAD:
 
 
 What is this
-Basically I wanted a small macropad for my most used keybinds/websites (copy, paste, chatgpt, google docs) lol
+Basically I wanted a small macropad for my most used keybinds/websites (copy, paste, chatgpt, google docs, alt+tab, win+tab) lol
 
 Runs on a Seeed XIAO RP2040 with KMK firmware (CircuitPython-based). Super easy to reprogram without reflashing.
 
 Hardware
 MCU: Seeed XIAO RP2040
-Switches: 4x Cherry MX compatible switches
+Switches: 6x Cherry MX compatible switches
 LEDs: 2x SK6812 RGB LEDs
 the PCB is designed in KiCad
 
 
 BOM
-4x Cherry MX Switches 2x SK6812 MINI LEDs 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~50-100g PLA
+6x Cherry MX Switches 2x SK6812 MINI LEDs 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~50-100g PLA
