@@ -1,11 +1,13 @@
 6 key macropad
 
 schematic:
-<img width="476" height="552" alt="image" src="https://github.com/user-attachments/assets/8e106ae4-1e02-417b-9b03-b7f2485b4358" />
+<img width="449" height="441" alt="image" src="https://github.com/user-attachments/assets/caa63c53-6d0e-4ce0-836b-219221b163bc" />
+
 
 
 pcb:
-<img width="254" height="413" alt="image" src="https://github.com/user-attachments/assets/8b4b78be-f573-4cd3-9f96-107f1abce346" />
+<img width="272" height="427" alt="image" src="https://github.com/user-attachments/assets/cddc070c-a016-4778-8191-2eaaa03bbfb7" />
+
 
 
 CAD:
@@ -26,9 +28,8 @@ Runs on a Seeed XIAO RP2040 with KMK firmware (CircuitPython-based). Super easy 
 Hardware
 MCU: Seeed XIAO RP2040
 Switches: 6x Cherry MX compatible switches
-LEDs: 2x SK6812 RGB LEDs
 the PCB is designed in KiCad
 
 
 BOM
-6x Cherry MX Switches 2x SK6812 MINI LEDs 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~50-100g PLA
+6x Cherry MX Switches 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~50-100g PLA
