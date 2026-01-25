@@ -6,7 +6,8 @@ schematic:
 
 
 pcb:
-<img width="272" height="427" alt="image" src="https://github.com/user-attachments/assets/cddc070c-a016-4778-8191-2eaaa03bbfb7" />
+<img width="369" height="610" alt="image" src="https://github.com/user-attachments/assets/a23bc2e8-6b88-4e8e-be11-d279bd6f01d5" />
+
 
 
 
