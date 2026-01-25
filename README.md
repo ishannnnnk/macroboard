@@ -13,6 +13,8 @@ pcb:
 CAD:
 <img width="556" height="659" alt="image" src="https://github.com/user-attachments/assets/f7926998-14c2-4f2f-bc46-bd8be4e2eb8c" />
 <img width="559" height="610" alt="image" src="https://github.com/user-attachments/assets/3dc72efd-f765-4a95-89c5-aac197b98986" />
+<img width="253" height="386" alt="image" src="https://github.com/user-attachments/assets/35c69b63-e041-4d2b-a11e-1e60d01d8696" />
+
 
 
 
